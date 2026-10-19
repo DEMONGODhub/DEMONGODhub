@@ -9,9 +9,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omnisight0) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/DEMONGOD909p) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@demongod999p) 
 
-# 💫 About Me:
-DEMONGODhub is my personal coding hub where I build, experiment, and share projects in Python, web development, and AI.<br><br>Explore MedSahayak, an AI-powered medical report simplifier; conversion-api, a converter-focused Python project; configuration files and web experiments; and other creative software projects.<br><br>I'm constantly learning, developing new ideas, and improving my skills through real-world projects.<br><br>Explore the code, discover my projects, and follow my journey as a developer.
-
 <br><br>MY_WEBSITE: https://demongod.freedev.app
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DEMONGODhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -20,11 +17,5 @@ DEMONGODhub is my personal coding hub where I build, experiment, and share proje
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DEMONGODhub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=DEMONGODhub&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
