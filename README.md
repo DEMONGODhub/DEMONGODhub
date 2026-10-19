@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-DEMONGODhub is my personal coding hub where I build, experiment, and share projects in Python, web development, and AI.<br><br>Explore MedSahayak, an AI-powered medical report simplifier; conversion-api, a converter-focused Python project; configuration files and web experiments; and other creative software projects.<br><br>I'm constantly learning, developing new ideas, and improving my skills through real-world projects.<br><br>Explore the code, discover my projects, and follow my journey as a developer.<br><br>GitHub: https://github.com/demongodhub
+DEMONGODhub is my personal coding hub where I build, experiment, and share projects in Python, web development, and AI.<br><br>Explore MedSahayak, an AI-powered medical report simplifier; conversion-api, a converter-focused Python project; configuration files and web experiments; and other creative software projects.<br><br>I'm constantly learning, developing new ideas, and improving my skills through real-world projects.<br><br>Explore the code, discover my projects, and follow my journey as a developer.
+
+<br><br>MY_WEBSITE: https://demongod.freedev.app
 
 
 ## 🌐 Socials:
