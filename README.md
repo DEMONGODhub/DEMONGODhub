@@ -1,13 +1,13 @@
 ## Hi there 👋
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omnisight0) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/DEMONGOD909p) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@demongod999p) 
 
-#GIF
 <!--
 **yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omnisight0) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/DEMONGOD909p) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@demongod999p) 
+
 # 💫 About Me:
 DEMONGODhub is my personal coding hub where I build, experiment, and share projects in Python, web development, and AI.<br><br>Explore MedSahayak, an AI-powered medical report simplifier; conversion-api, a converter-focused Python project; configuration files and web experiments; and other creative software projects.<br><br>I'm constantly learning, developing new ideas, and improving my skills through real-world projects.<br><br>Explore the code, discover my projects, and follow my journey as a developer.
 
